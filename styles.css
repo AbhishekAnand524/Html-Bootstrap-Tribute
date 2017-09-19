@@ -1,0 +1,20 @@
+body{
+  background-image:  url("background.jpg");
+}
+
+.title{
+  color: #fff;
+  font-weight: bold;
+}
+
+.profile-highlight{
+  border-width:thick;
+}
+
+.life-details{
+  border-width:thick;
+}
+
+.career-highlight{
+  background-color: #fff;
+}
